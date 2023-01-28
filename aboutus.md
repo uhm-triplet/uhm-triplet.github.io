@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: About the team members
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Yong U Cho
+|||
+|--|--|
+|![Yong U Cho](https://vssmn.org/wp-content/uploads/2018/12/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png =200x150)|**Programmer, ICS Major** <br/>I am a team member associated in developing game "Beats Bang" <br/> My job was to develop the TPS shooting part of the game and<br/> linking the rhythm part and shooting part using NetCode for<br/> GameObjects|
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+:e-mail: yongu200@hawaii.edu
+:page_facing_up: [github portfolio](https://yongu2000.github.io)
 
-What else do you need?
 
-### My story
+## Shane Severino
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Use markdown to introduce your self
+
+## Scott Nguyen
+
+Use markdown to introduce your self
