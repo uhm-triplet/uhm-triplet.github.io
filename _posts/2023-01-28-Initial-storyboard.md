@@ -2,10 +2,10 @@
 layout: post
 title: Initial storyboard
 subtitle: Idea brainstorming and concept arts - by Yong U Cho
-cover-img: /assets/img/initial_storyboard.PNG
-thumbnail-img: /assets/img/initial_storyboard.PNG
-share-img: /assets/img/initial_storyboard.PNG
-tags: [brainstorming, idea]
+cover-img: /assets/img/idea/initial_storyboard.PNG
+thumbnail-img: /assets/img/idea/initial_storyboard.PNG
+share-img: /assets/img/idea/initial_storyboard.PNG
+tags: [brainstorming, idea, Beats Bang]
 ---
 
 ## How did we start
@@ -38,15 +38,18 @@ There were many opinions such as racing, 2D battle, 3D battle, etc., and first o
 - Kills / Damage is converted to the final score
 
 ## Idea sketch
-![Idea_1](./assets/img/idea/idea_1.jpg)
-![Idea_2](./assets/img/idea/idea_2.jpg)
-![Idea_3](./assets/img/idea/idea_3.jpg)
+![Idea_1](../assets/img/idea/idea_1.jpg)
+![Idea_2](../assets/img/idea/idea_2.jpg)
+![Idea_3](../assets/img/idea/idea_3.jpg)
 
 ## Concept arts
-![AlWheySigh](./assets/img/idea/AlWheySigh.png)
-![SuePurrSweddy](./assets/img/idea/SuePurrSweddy.png)
-![modeling](./assets/img/idea/modeling.png)
-![Notes_storyboard](./assets/img/idea/Notes_storyboard.png)
+![AlWheySigh](../assets/img/idea/AlWheySigh.png)
+![SuePurrSweddy](../assets/img/idea/SuePurrSweddy.png)
+![modeling](../assets/img/idea/modeling.png)
+![Notes_storyboard](../assets/img/idea/Notes_storyboard.png)
 
 ## Rough in-game view
-![rough_in_game](./assets/img/idea/rough_in_game.PNG)
+![rough_in_game](../assets/img/idea/rough_in_game.PNG)
+
+## Brainstroming board (SAGE 3)
+![initial_storyboard](../assets/img/idea/initial_storyboard.PNG)
