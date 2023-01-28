@@ -72,7 +72,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
- discord: https://discord.gg/6xDGNaybfy
+#  discord: https://discord.gg/6xDGNaybfy
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -246,7 +246,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "US/Hawaii"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
