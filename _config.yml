@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Triplet
+title: "Triplet"
 
 # Your name to show in the footer
-author: Triplet
+author: "Triplet"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,7 +50,7 @@ round-avatar: true
 social-network-links:
   email: "yongu200@hawaii.edu"
   github: uhm-triplet
-  trello: "https://trello.com/invite/b/nj5AnWFD/ATTI45c1442a0e37272dabe2280d5f5aea39D423A7EE/game-design-class-woop-woop"
+#   trello: "https://trello.com/invite/b/nj5AnWFD/ATTI45c1442a0e37272dabe2280d5f5aea39D423A7EE/game-design-class-woop-woop"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
