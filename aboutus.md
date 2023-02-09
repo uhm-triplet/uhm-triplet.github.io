@@ -20,4 +20,10 @@ Use markdown to introduce your self
 
 ## Scott Nguyen
 
-Use markdown to introduce your self
+|  |  |
+|:--|:--|
+|png|**Artist, Animator, ACM/SCA Major** <br/>I am the team member responsible for the creative direction and visual aesthetics of the game.
+
+<i class="fa-solid fa-envelope"></i> <a href="mailto:scottngu@hawaii.edu">scottngu@hawaii.edu</a> <br/>
+<i class="fa-solid fa-file"></i> [github portfolio](https://scottnscoff.github.io)<br/>
+<i class="fa-solid fa-file"></i> [artist portfoliio](https://scottnscoff.github.io)
