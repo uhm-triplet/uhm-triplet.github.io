@@ -31,4 +31,4 @@ subtitle: About the team members
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:scottngu@hawaii.edu">scottngu@hawaii.edu</a> <br/>
 <i class="fa-solid fa-file"></i> [github portfolio](https://scottnscoff.github.io)<br/>
-<i class="fa-solid fa-file"></i> [artist portfoliio](https://scottnscoff.github.io)
+<i class="fa-solid fa-file"></i> [artist portfoliio](https://scottnscoff.wixsite.com/portfolio)
