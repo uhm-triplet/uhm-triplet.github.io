@@ -16,7 +16,12 @@ subtitle: About the team members
 
 ## Shane Severino
 
-Use markdown to introduce your self
+|  |  |
+|:--|:--|
+|![Shane Severino](./assets/img/triplet-icon.png)|**Programmer, ICS Major** <br/>I am the next computer science student developing "Beats Bang". <br/> I am primarily responsible for the rhythm portion of our game <br/> as well as assist with any other software needs as they naturally arise during the development process.<br/>|
+
+<i class="fa-solid fa-envelope"></i> <a href="mailto:shanesev@hawaii.edu">shanesev@hawaii.edu</a> <br/>
+<i class="fa-solid fa-file"></i> [github portfolio](https://shane-sev.github.io)
 
 ## Scott Nguyen
 
