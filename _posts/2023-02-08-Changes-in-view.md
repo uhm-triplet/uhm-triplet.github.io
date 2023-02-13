@@ -5,7 +5,7 @@ subtitle: Combining the rhythm and combat screen
 cover-img: /assets/img/yongu/shooting_post1/playerscreen.png
 thumbnail-img: /assets/img/yongu/shooting_post1/playerscreen.png
 share-img: /assets/img/yongu/shooting_post1/playerscreen.png
-tags: [Technical issue, idea, Beats Bang]
+tags: [Technical issue, idea, Beats Bang, Single Play, Boss]
 ---
 
 ## Multiplayer complexity problem
