@@ -26,7 +26,6 @@ Select Host to create a lobby. When entering the lobby, the room code will be sh
 
 When another player clicks the Join Button, an input for code will be shown.
 ![JoinCode](../assets/img/yongu/multiplay/JoinCode.PNG)
-![JoinCodeZoom](../assets/img/yongu/multiplay/JoinCodeZoom.PNG)
 
 Enter the same code from the host's lobby (this is a sample image and the code are not the same for the below image)
 ![JoinCode2](../assets/img/yongu/multiplay/joincode2.png)
