@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Initial storyboard
-subtitle: Idea brainstorming and concept arts - by Yong U Cho
+subtitle: Idea brainstorming and concept arts
 cover-img: /assets/img/idea/initial_storyboard.PNG
 thumbnail-img: /assets/img/idea/initial_storyboard.PNG
 share-img: /assets/img/idea/initial_storyboard.PNG
@@ -29,7 +29,7 @@ There were many opinions such as racing, 2D battle, 3D battle, etc., and first o
 - Two button input
 - Each button plays their own beatmap in sync with each other
 - Hitting the notes gives different types of resources to the combat player 
--  * what kind of resources they need (health, ammo, swag, money)
+  - what kind of resources they need (health, ammo, swag, money)
 - Combo + score is converted to the final score
 
 ### Combat Player
