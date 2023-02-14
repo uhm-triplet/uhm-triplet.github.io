@@ -30,7 +30,7 @@ Since the network connection between 2players(same team of rhythm and combat pla
 - Two-button input
 - Each button plays its own beat map in sync with the other
 - Hitting the notes gives different types of resources to the combat player 
--  * kind of resources they need (health, ammo, swag, money)
+  - kind of resources they need (health, ammo, swag, money)
 
 ### Combat Player
 - TPS 
