@@ -22,5 +22,6 @@ Below is a screenshot of the basic structure of our rhythm game in development.
 The white circles are the two activators while the red and blue circles represent notes. The activators as stated in previous posts are binded to the A and D keys respectively.
 
 ## Next Steps: Beat Map
+Now that basic fuctionality has been established for the rhythm game, the next step is producing a beat map. What this means in simpler terms is we must produce notes that fall in-sync with the chosen song. 
 
 
