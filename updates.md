@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Tech Blog
+title: Updates
 subtitle: Updates and development history of Triplet 
 ---
