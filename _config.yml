@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutus"
   Games:
     - Beats Bang: "beatsbang"
-  Tech Blog: "techblog"
+  Updates: "updates"
 
 ################
 # --- Logo --- #
