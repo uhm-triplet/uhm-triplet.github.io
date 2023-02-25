@@ -10,7 +10,7 @@ subtitle: Rhythm + TPS Shooter Co-op 2v2 game.
 intro
 
 ## Download
-[download link(Windows)](https://drive.google.com/file/d/1aHPHHQnGQ-lkobXxp5XztXxD8QSbJTG9/view?usp=sharing)
+[Windows](https://drive.google.com/file/d/1aHPHHQnGQ-lkobXxp5XztXxD8QSbJTG9/view?usp=sharing)
 
 ## How-to-play
 manual
