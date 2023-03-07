@@ -13,7 +13,7 @@ intro
 [Windows](https://drive.google.com/file/d/1aHPHHQnGQ-lkobXxp5XztXxD8QSbJTG9/view?usp=sharing)
 
 ## How-to-play
-manual
+![instruction](../assets/img/instruction.PNG)
 
 ## Host/Join 
 intro about multiplay
