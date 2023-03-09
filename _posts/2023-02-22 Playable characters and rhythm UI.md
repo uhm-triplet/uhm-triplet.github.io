@@ -13,8 +13,12 @@ For our character design ideas, we wanted to go very vibrant and alive with the 
 IMAGE IMAGE
 **2D concept illustrations of playable characters** <br />
 From there, it was time to start working on making a playable character! Still new to modeling, so the model is still a bit away from to my liking. But with what I can do, I was able to model, texture and rig a prototype character for our game.<br/>
-![Rig Showcase]([../assets/img/scott/rig showcase.png) <br/>
+
+![Rig Showcase]([../assets/img/scott/rig showcase.png)
+
 ![Motion Sample](../assets/img/scott/ezgif.com-video-to-gif.gif) <br/>
+
+
 **rigged prototype character and sample motion test**
 <br/>
 <br/>
