@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Character Design, Prototype Model and 2d assets
-subtitle: The pre-production to rigging process
+subtitle: The pre-production to rigging process 
 cover-img: /assets/img/scott/ezgif.com-video-to-gif.gif
 thumbnail-img: 
 share-img: 
