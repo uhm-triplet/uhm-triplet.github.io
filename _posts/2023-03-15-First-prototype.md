@@ -28,6 +28,7 @@ When the player's HP hits 0, the result UI for the game over appears, and shows 
 
 #### Stage Clear
 ![Stage_Clear](../assets/img/yongu/prototype/stage1clear.png)
+When all enemies are eliminated and the song has ended, stage clear UI appears.
 Stage Clear UI is similar to the game over UI, additional "Next Stage" button is included.
 
 ![Stage_Clear](../assets/img/yongu/prototype/stage2open.png)
