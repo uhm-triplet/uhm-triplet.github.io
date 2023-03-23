@@ -27,7 +27,7 @@ subtitle: About the team members
 
 |  |  |
 |:--|:--|
-|png|**Artist, Animator, ACM/SCA Major** <br/>I am the team member responsible for the creative direction and visual aesthetics of the game. I'll be working on both 2D and 3D assets for the game, along curating the music and beatmaps involved in the rhythm portion of the game.
+|![Scott Nguyen](./assets/img/scott/Owow.heic)|**Artist, Animator, ACM/SCA Major** <br/>I am the team member responsible for the creative direction and visual aesthetics of the game. I'll be working on both 2D and 3D assets for the game, along curating the music and beatmaps involved in the rhythm portion of the game.
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:scottngu@hawaii.edu">scottngu@hawaii.edu</a> <br/>
 <i class="fa-solid fa-file"></i> [github portfolio](https://scottnscoff.github.io)<br/>
