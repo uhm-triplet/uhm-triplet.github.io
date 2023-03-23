@@ -12,7 +12,9 @@ Save the world from extraterrestrial, music note aliens with the power of rhythm
 ## Download
 [Windows](https://drive.google.com/file/d/1aHPHHQnGQ-lkobXxp5XztXxD8QSbJTG9/view?usp=sharing)
 
+
 ## How-to-play
+
 
 #### Controls
 ![instruction](./assets/img/instruction.PNG)
