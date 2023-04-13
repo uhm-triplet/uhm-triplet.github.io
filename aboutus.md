@@ -18,7 +18,7 @@ subtitle: About the team members
 
 |  |  |
 |:--|:--|
-|![Shane Severino](./assets/img/shane/shanesev_profile2.jpg)|**Programmer, ICS Major** <br/>I am the next computer science student who worked on developing "Beats Bang".<br/><br/> I was responsible for the rhythm portion of our game which includes the mechanics, scoring, and contributing to the shared responsibility of producing beatmaps.<br/> <br/>I also assisted with other software needs throughout the devlopment process like maintaining our website.<br/>|
+|![Shane Severino](./assets/img/shane/shanesev_profile2.jpg)|**Programmer, ICS Major** <br/>I am the next computer science student who worked on developing "Beats Bang".<br/><br/> I was responsible for the rhythm portion of our game and I also assisted with other software needs throughout the devlopment process like maintaining our website.<br/>|
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:shanesev@hawaii.edu">shanesev@hawaii.edu</a> <br/>
 <i class="fa-solid fa-file"></i> [github portfolio](https://shane-sev.github.io)
