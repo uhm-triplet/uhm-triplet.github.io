@@ -8,7 +8,7 @@ subtitle: About the team members
 
 |  |  |
 |:--|:--|
-|![Yong U Cho](./assets/img/yongu/profileYongU.jpg)|**Programmer, ICS Major** <br/>I am a team member associated in developing game <br/>"Beats Bang". My job was to develop the TPS shooting part of the game including the enemy and stage selections<br/> and to link the rhythm and shooting parts
+|![Yong U Cho](./assets/img/yongu/profileYongU.jpg)|**Programmer, ICS Major** <br/>I am a team member associated in developing game <br/>"Beats Bang". My job was to develop the TPS shooting part of the game which included designing the enemy and stage selection menus<br/> and linking the rhythm and shooting parts.
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:yongu200@hawaii.edu">yongu200@hawaii.edu</a> <br/>
 <i class="fa-solid fa-file"></i> [github portfolio](https://yongu2000.github.io)
@@ -18,7 +18,7 @@ subtitle: About the team members
 
 |  |  |
 |:--|:--|
-|![Shane Severino](./assets/img/shane/shanesev_profile2.jpg)|**Programmer, ICS Major** <br/>I am the next computer science student developing "Beats Bang".<br/><br/> I am responsible for the rhythm portion of our game as well as assisting <br/> with other software needs throughout the devlopment process like maintaining our website.<br/>|
+|![Shane Severino](./assets/img/shane/shanesev_profile2.jpg)|**Programmer, ICS Major** <br/>I am the next computer science student who worked on developing "Beats Bang".<br/><br/> I was responsible for the rhythm portion of our game which includes the mechanics, scoring, and contributing to the shared responsibility of producing beatmaps. <br/> I also assisted with other software needs throughout the devlopment process like maintaining our website.<br/>|
 
 <i class="fa-solid fa-envelope"></i> <a href="mailto:shanesev@hawaii.edu">shanesev@hawaii.edu</a> <br/>
 <i class="fa-solid fa-file"></i> [github portfolio](https://shane-sev.github.io)
