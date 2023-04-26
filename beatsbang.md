@@ -37,6 +37,6 @@ While this mode is selected, notes will contribute toward replenishing the comba
 While this mode is selected, notes will contribute toward increasing the combat player's damage multiplier per bullet. But be careful, this damage multiplier is only in effect when strength mode is selected. 
 
 ### Combat Player
-Eliminate all enemies of each type with the supplies given from the rhythm player! 
+Eliminate all enemies of each type with the supplies given from the rhythm player! Keep track of your ammo and be on the lookout for any grenades that your partner might earn!
 
 
