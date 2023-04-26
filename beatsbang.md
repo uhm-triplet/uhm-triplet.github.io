@@ -22,6 +22,9 @@ Save the world from extraterrestrial, music note aliens with the power of rhythm
 ### Keyboard Controls
 ![instruction](./assets/img/instruction.PNG)
 
+### In-Game View
+![Game Sample](./assets/img/shane/game_sample.png)
+
 ### Rhythm Player
 Each correct note hit by the rhythm player will be converted to resources for the combat player. The rhythm player is able to switch between three different modes (health/ammo/strength) to provide their teammate with the desired resource. A streak of 50 notes will reward the shooter with a powerful grenade!
 
