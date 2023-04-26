@@ -23,7 +23,9 @@ Save the world from extraterrestrial, music note aliens with the power of rhythm
 ![instruction](./assets/img/instruction.PNG)
 
 ### Rhythm Player
-Each correct note hit by the rhythm player will be converted to resources for the combat player. The rhythm player is able to switch between three different modes (health/ammo/strength) to provide their teammate with the desired resource. A streak of 50 notes will reward players with a powerful grenade!
+Each correct note hit by the rhythm player will be converted to resources for the combat player. The rhythm player is able to switch between three different modes (health/ammo/strength) to provide their teammate with the desired resource. A streak of 50 notes will reward the shooter with a powerful grenade!
+
+![Rhythm Modes](./assets/img/shane/rhythm_modes.png)
 
 #### Health Mode (green)
 While this mode is selected, notes will contribute toward replenishing the combat player's health bar. 
@@ -35,14 +37,6 @@ While this mode is selected, notes will contribute toward replenishing the comba
 While this mode is selected, notes will contribute toward increasing the combat player's damage multiplier per bullet. But be careful, this damage multiplier is only in effect when strength mode is selected. 
 
 ### Combat Player
-Eliminate all enemies of each type with the supplies given from the rhythm player.
-
-#### Light Blue Alien
-
-#### Purple Alien
-
-#### Yellow Alien
-
-#### Red Alien
+Eliminate all enemies of each type with the supplies given from the rhythm player! 
 
 
