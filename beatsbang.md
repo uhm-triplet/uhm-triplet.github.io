@@ -6,7 +6,7 @@ share-img: /assets/img/BeatsBangLogo.png
 subtitle: Rhythm + TPS Shooter Co-op game.
 ---
 
-
+## Trailer
 https://youtu.be/h0t7uRAGKfw
 
 ## Introduction
