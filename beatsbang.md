@@ -6,6 +6,8 @@ share-img: /assets/img/BeatsBangLogo.png
 subtitle: Rhythm + TPS Shooter Co-op game.
 ---
 
+![Trailer](./BeatsBang_Trailer.mov)
+
 ## Introduction
 Save the world from extraterrestrial, music note aliens with the power of rhythm and teamwork in Beats Bang! Beats Bang is a two player game combining elements from traditional rhythm games and third person shooters on one computer. One player will be in charge of the rhythm game and is responsible for supporting the shooter as he works to defeat all of the aliens! 
 
